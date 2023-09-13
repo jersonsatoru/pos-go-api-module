@@ -1,0 +1,4 @@
+@baseUrl = http://localhost:8000/api
+
+GET {{baseUrl}}/products/41277d88-721e-4a91-9097-36cdf8486d2d
+

@@ -1,0 +1,10 @@
+@baseUrl = http://localhost:8000/api
+
+POST {{baseUrl}}/users
+Content-Type: application/json
+
+{
+  "name": "Jerson Satoru Uyekita",
+  "email": "jersonsatoru@yahoo.com.br",
+  "password": "234234"
+}

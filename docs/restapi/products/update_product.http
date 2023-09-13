@@ -1,0 +1,9 @@
+@baseUrl = http://localhost:8000/api
+
+PUT {{baseUrl}}/products/41277d88-721e-4a91-9097-36cdf8486d2d
+Content-Type: application/json
+
+{
+  "name": "Batata 2",
+  "price": 19.25
+}

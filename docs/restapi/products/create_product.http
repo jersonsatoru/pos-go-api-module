@@ -1,0 +1,9 @@
+@baseUrl = http://localhost:8000/api
+
+POST {{baseUrl}}/products
+Content-Type: application/json
+
+{
+  "name": "Batata",
+  "price": 12.99
+}
